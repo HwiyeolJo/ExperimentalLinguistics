@@ -1,2 +1,2 @@
 # ExperimentalLinguistics
- Class materials used in Experimental Linguistics
+ Class stuffs for Experimental Linguistics
